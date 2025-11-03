@@ -1,7 +1,7 @@
---Lucas Silva Adasme / Analista y Programador Computacional
---------------------------------------------------------------------------------
---                       Actividad Formativa N°2
---                       -----------------------
+--Lucas Silva Adasme - Frank Cordoba Alvarez / Grupo N°3 / Analista y Programador Computacional
+-----------------------------------------------------------------------------------------------
+--                                       Actividad Formativa N°2
+--                                       -----------------------
 
   
 --Caso 1: Análisis de Facturas
